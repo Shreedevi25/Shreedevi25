@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shriya :)
+- 👋 Hi, I’m Shreedevi :)
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Computer Science with AI and ML
 - 📫 How to reach me: Phone No.: 9820751525
